@@ -1,0 +1,11 @@
+{
+  "name": "wa-01",
+  "version": "1.0.0",
+  "description": "Ovo su prve vježbe iz web aplikacija",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Petar Prenc",
+  "license": "ISC"
+}
